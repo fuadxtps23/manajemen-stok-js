@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nama": "Pulpen",
+    "stok": 70,
+    "harga": 2500
+  },
+  {
+    "id": 2,
+    "nama": "Pensil",
+    "stok": 5,
+    "harga": 1000
+  },
+  {
+    "id": 3,
+    "nama": "Buku Catatan",
+    "stok": 200,
+    "harga": 6000
+  },
+  {
+    "id": 4,
+    "nama": "Penghapus",
+    "stok": 8,
+    "harga": 3000
+  }
+]
