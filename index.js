@@ -2,9 +2,11 @@ const rd = require("readline-sync");
 const fs = require("fs");
 
 console.log("Selamat datang di Aplikasi Manajemen Stok Barang!");
-
 const namaToko = "Toko Buku ABC";
 const tanggalHariIni = new Date().toLocaleDateString();
+
+console.log(`Nama Toko: ${namaToko}`);
+console.log(`Tanggal: ${tanggalHariIni}`);
 
 // Dasar gak pake OOP
 
